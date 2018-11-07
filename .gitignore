@@ -1,0 +1,6 @@
+#ignore the test/dev sets
+/TOEFL11-TRAIN/*
+/TOEFL11-DEV/*
+
+*.DS_Store
+
