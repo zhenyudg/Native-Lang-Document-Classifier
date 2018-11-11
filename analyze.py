@@ -61,6 +61,7 @@ def write_output_csv(test_set, output_file_name):
 
 if len(sys.argv) != 5:
     print("Usage: python3 analyze.py PATH_TO_TRAIN_SET PATH_TO_DEV_SET PATH_TO_TEST_SET OUTPUT_CSV_FILE")
+    exit(0)
 
 path_train_set = sys.argv[1]
 path_dev_set = sys.argv[2]
