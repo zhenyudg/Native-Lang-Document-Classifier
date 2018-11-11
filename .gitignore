@@ -2,5 +2,7 @@
 /TOEFL11-TRAIN/*
 /TOEFL11-DEV/*
 
+/.idea/*
+
 *.DS_Store
 
